@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Gabriel, but everyone calls me by my middle name: Fiami!
+## My name is Gabriel, but everyone calls me by my surname: Fiami!
 
 - 💻 I’m currently working on my portfolio.
 - 🧠 I’m currently studying to be a full-stack developer.

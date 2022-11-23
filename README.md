@@ -2,7 +2,7 @@
 ## My name is Gabriel, but everyone calls me by my surname: Fiami!
 
 - 💻 I’m currently working on my portfolio.
-- 🧠 I’m currently studying to be a full-stack developer.
+- 🧠 I’m currently studying to be a full-stack developer, majoring in Systems Analysis and Development.
 - 🌈 Pronouns: he/him.
 - 🎬 Fun fact: I watch few movies and series with "real" humans. I prefer cartoons like "Gravity Falls" and "Amphibia".
 <div align="center">
@@ -12,9 +12,9 @@
 ## 📜 About Me 📜
 I was born in Rio de Janeiro - RJ, Brazil.
 
-I'm in my last year of degree in Biology, but already changing careers and focusing my studies on programming.
+I was majoring in Biology, but decided to change careers to something I've always been closer to: Technology. Now I'm majoring in Systems Analysis and Development.
 
-I chose to major in Biology because I identified more with it at the time, but now I feel more enthusiastic by technology, where I find more pleasure in learning and challenging myself every day!
+Initially, I chose to major in Biology because I identified more with it at the time, but now I feel more enthusiastic by technology, where I find more pleasure in learning and challenging myself every day!
 
 Now I'm focusing my studies to delve into some specific languages and get really good at them, and when I feel confident, move on to new ones.
 <div id="header" align="center">

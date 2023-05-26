@@ -12,11 +12,14 @@
 ## 📜 About Me 📜
 I was born in Rio de Janeiro - RJ, Brazil.
 
-I was majoring in Biology, but decided to change careers to something I've always been closer to: Technology. Now I'm majoring in Systems Analysis and Development.
-
 Initially, I chose to major in Biology because I identified more with it at the time, but now I feel more enthusiastic by technology, where I find more pleasure in learning and challenging myself every day!
 
-Now I'm focusing my studies to delve into some specific languages and get really good at them, and when I feel confident, move on to new ones.
+Currently, I'm focusing my studies on mastering specific programming languages and becoming proficient in them. Once I feel confident, I'll expand my skills to new languages and technologies.
+
+Feel free to explore my repositories and projects. If you have any questions or want to collaborate on exciting tech projects, please reach out!
+
+Let's connect and embark on this amazing journey of coding and innovation together!
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
 </div>
@@ -36,6 +39,7 @@ Now I'm focusing my studies to delve into some specific languages and get really
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" **alt="Git" Laravel="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs" **alt="Vuejs" width="40" height="40"/>&nbsp;
 </div>

@@ -1,26 +1,21 @@
 # Gabriel Fiami
 
-**Desenvolvedor Full Stack Pleno**
+**Desenvolvedor Full Stack Pleno** · PHP (Laravel) · Python (FastAPI) · React/TypeScript
 
-Desenvolvedor Full Stack com mais de 3 anos de experiência construindo aplicações web com PHP (Laravel), Python (FastAPI), TypeScript, Vue.js e React/Next.js. Hoje atuo no setor de tecnologia imobiliária (proptech), com foco em fluxos financeiros automatizados, integrações com APIs de terceiros, rotinas em background e otimização de bancos de dados relacionais.
+Desenvolvo de ponta a ponta, da tela à API, produtos que lidam com dinheiro, dados sensíveis e integrações, numa proptech completa para o mercado imobiliário. Hoje trabalho na plataforma de locação: cobrança, renegociação de dívidas e análise de crédito. Antes, fui o principal responsável pelo chatbot de atendimento via WhatsApp e pelo chat em tempo real de um CRM.
 
-## Stack
+### No trabalho (código privado)
+- **Pagamentos e cobrança:** renegociação de dívidas de aluguel com emissão de boletos sem risco de cobrança duplicada; cobrança de imobiliárias por boleto com liberação automática do acesso.
+- **Migração de legado com segurança:** análise de crédito saindo de uma plataforma no-code para Python/FastAPI, em etapas e com possibilidade de voltar atrás.
+- **Dados pessoais e confiabilidade:** controle de acesso por cliente (LGPD), reprocessamento automático de análises travadas e investigação de incidentes até a causa raiz.
+- **Integrações:** birô de crédito, KYC, boletos, seguradoras, WhatsApp (Z-API, Twilio, Gupshup), AWS Cognito e LLMs (Gemini, OpenAI).
+- **Tempo real:** chat e notificações via WebSocket (PHP e Node.js).
 
-- **Back-end:** PHP (Laravel), Python (FastAPI), Node.js, APIs REST, GraphQL
-- **Front-end:** TypeScript, JavaScript, Vue.js, React, Next.js, HTML5, CSS3
-- **Bancos de dados:** MySQL, PostgreSQL
-- **Cloud e DevOps:** AWS, Docker, Git
-- **Qualidade:** testes automatizados (Jest), code review, Scrum
-- **IA:** desenvolvimento assistido por IA com Claude
+### Como eu trabalho
+- Investigo com dados reais antes de propor a correção.
+- Testes fazem parte da entrega (pytest, Vitest, React Testing Library).
+- Uso IA (Claude Code) no desenvolvimento, com testes e revisão sob minha responsabilidade.
 
-## Como eu trabalho
+**Stack:** React · TypeScript · PHP · Laravel · Python · FastAPI · PostgreSQL · MySQL · TanStack Query · Tailwind CSS
 
-- Traduzo regras de negócio em funcionalidades junto com Produto, Design e Operações.
-- Aplico Clean Architecture, design patterns e code review para manter o código fácil de evoluir.
-- Uso IA como apoio em código, testes e documentação, sempre com revisão crítica.
-
-## Contato
-
-- LinkedIn: [linkedin.com/in/gfiami](https://www.linkedin.com/in/gfiami)
-- E-mail: gabrielfiami.dev@gmail.com
-- Inglês avançado (C2)
+📫 [LinkedIn](https://www.linkedin.com/in/gfiami) · gabrielfiami.dev@gmail.com
